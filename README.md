@@ -1,7 +1,7 @@
 # Large Data file transfer using UDP
 
 it will transfer the big data file over the network using UDP protocol.
-first run the urecv in the terminal.
+In the first terminal run the urecv file.
 In the second terminal run the usend file.
 
 ## run command.
